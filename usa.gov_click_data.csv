@@ -1,0 +1,8 @@
+web_browser,operating_sys,from_url,to_url,city,longitude,latitude,time_zone,time_in,time_out
+"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.78 Safari/535.11",Mozilla/5.0,www.facebook.com,www.ncbi.nlm.nih.gov,Danvers,-70.954903,42.576698,America/New_York,4/1/2012 19:03,4/1/2012 19:03
+GoogleMaps/RochesterNY,GoogleMaps/RochesterNY,www.awaremap.com,www.monroecounty.gov,Provo,-111.613297,40.218102,America/Denver,3/16/2012 18:40,6/16/2011 22:13
+Mozilla/4.0 (Windows NT 6.1; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; InfoPath.3),Mozilla/4.0,t.co,boxer.senate.gov,Washington,-77.043098,38.9007,America/New_York,4/2/2012 22:50,4/2/2012 22:50
+"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11",Mozilla/5.0,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,-71.714699,42.286499,America/New_York,4/5/2012 6:23,4/5/2012 6:23
+"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11",Mozilla/5.0,www.shrewsbury-ma.gov,www.shrewsbury-ma.gov,Shrewsbury,-71.714699,42.286499,America/New_York,4/6/2012 10:10,4/6/2012 10:10
+"Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.79 Safari/535.11",Mozilla/5.0,plus.url.google.com,www.nasa.gov,Luban,15.2833,51.116699,Europe/Warsaw,4/7/2012 13:57,4/7/2012 13:57
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.2.27) Gecko/20120216 Firefox/3.6.27,Mozilla/5.0,t.co,oversight.house.gov,Washington,-77.092796,38.937599,America/New_York,4/12/2012 5:04,4/12/2012 5:04
